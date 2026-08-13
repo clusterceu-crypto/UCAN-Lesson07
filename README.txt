@@ -9,7 +9,7 @@ AUTHORITY
 Approved Content: UCAN_Lesson_07_Editorial_v2.1.docx — Drive ID 1IfSxxS26Cenx2_9VRAPyDbm5TbrSl854
 Canonical Methodical QA: UCAN_Lesson_07_Methodical_QA_Report_v1.0.docx — Drive ID 1r0o6sXCd2_zbHd16MZR1hDxRVr_uvUnd
 HTML Pre-Implementation Handoff: UCAN_Lesson_07_HTML_PreImplementation_Handoff_v1.0.docx — Drive ID 1GMfmcpUMpGX8Sm85AWCckSt5fvK67d5x
-Gate 9: UCAN_Lesson_07_Evidence_Methodical_MicroApproval_Handoff_v1.0.docx — Drive ID 1zDMiDYsAS-Sfo7MjdDzCcGYIaCI97J6P
+Gate 9: UCAN_Lesson_07_Evidence_Methodical_MicroApproval_Handoff_v1.0.docx — Drive persistence pending if connector upload remains unavailable.
 Architecture: KS-006 → AS-078 → BP-002 → MBM-002 → UCAN-L07.
 
 CORRECTIVE SCOPE APPLIED
